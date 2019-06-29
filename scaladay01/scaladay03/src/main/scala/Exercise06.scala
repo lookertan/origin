@@ -17,21 +17,21 @@ object Exercise06 {
   }
 }
 
-trait Operate3{
-  def insert(id :Int):Unit= {
+trait Operate3 {
+  def insert(id: Int): Unit = {
     println("插入数据为 = " + id)
   }
 }
 
-class OracleDB{
+class OracleDB {
 
 }
 
-abstract class MySQL3{
+abstract class MySQL3 {
 
 }
 
-abstract class MySQL3_{
+abstract class MySQL3_ {
   def say()
 
 }
